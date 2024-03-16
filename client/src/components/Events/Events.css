@@ -1,0 +1,56 @@
+.events-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: 'Trebuchet', sans-serif;
+    color: white;
+}
+
+.events-table th {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+    background-color: #1B4242;
+    font-weight: normal;
+    color: white;
+}
+
+.events-table th:hover {
+    background-color: #35374B;
+}
+
+.events-table tr {
+    padding: 4px;
+    text-align: left;
+    color: #092635;
+}
+
+.events-table td {
+    padding: 4px;
+}
+
+.events-table .column-id {
+    text-align: center;
+}
+
+.events-table .column-event {
+    text-align: left;
+}
+
+.events-table .column-result,
+.events-table .column-bonus,
+.events-table .column-tips,
+.events-table .column-Pts {
+    text-align: center;
+}
+
+.events-table tr:nth-child(odd) {
+    background-color: #5C8374;
+}
+
+.events-table tr:nth-child(even) {
+    background-color: #52776a;
+}
+
+.events-table tr:hover {
+    background-color: #35374B;
+    color: white;
+}

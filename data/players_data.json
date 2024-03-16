@@ -1,0 +1,6052 @@
+{
+  "Player1": {
+    "first_name": "R",
+    "last_name": "Brett",
+    "correct_tips": 13,
+    "bonus_points": 0,
+    "points_tally": 15.38772175536881,
+    "Event_1": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "J Robinson",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Sydney 6ers",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "Buffalo Bills",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "J Allen",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "B Fraser",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "M Yeoh",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "G Waterhouse",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "Snowden",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "G Russell",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "J Robinson",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "S Gilmore",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "F Toledo",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "T Wright",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "J Rahm",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "J Trump",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "S Scheffler",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "C Leclerc",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Arsenal",
+      "Bonus": 91.0
+    },
+    "Event_22": {
+      "Selection": "E Haaland",
+      "Bonus": 38.0
+    },
+    "Event_23": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Paris Saint-Germain",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Western Sydney Wanderers",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "H Blake",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Colorado Avalanches",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "C Alcaraz",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "C Morikawa",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "Australia",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Milwaukee Bucks",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "G Antetokounmpo",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "J Vingegaard",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "W Van Aert",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "R Mcilroy",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "NSW 2-1",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "M Labuschagne",
+      "Bonus": 562.0
+    },
+    "Event_41": {
+      "Selection": "J Hazelwood",
+      "Bonus": 23.0
+    },
+    "Event_42": {
+      "Selection": "Australia 3-1",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "England",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "E White",
+      "Bonus": 12.0
+    },
+    "Event_45": {
+      "Selection": "J Cameron",
+      "Bonus": 56.0
+    },
+    "Event_46": {
+      "Selection": "West Coast Eagles",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Dolphins",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "J Addo-Carr",
+      "Bonus": 24.0
+    },
+    "Event_49": {
+      "Selection": "C Alcaraz",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "J Tedesco",
+      "Bonus": 35.0
+    },
+    "Event_52": {
+      "Selection": "L Neale",
+      "Bonus": 30.0
+    },
+    "Event_53": {
+      "Selection": "W Ashcroft",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "Brisbane Lions",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "Spain",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Cowboys",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "J Miller",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "France",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "D Penaud",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "Atlanta Braves",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "England",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "K McEvoy",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "L Freedman",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Adam O'brien",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Adam Simpson",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": null,
+      "Bonus": null
+    }
+  },
+  "Player2": {
+    "first_name": "H",
+    "last_name": "Brown",
+    "correct_tips": 18,
+    "bonus_points": 0,
+    "points_tally": 25.982349349996404,
+    "Event_1": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "John John Florence",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Perth Scorchers",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "Kansas City Chiefs",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "P Mahomes",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "C Farrell",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "M Yeoh",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "M Price & M Kent",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "Snowden",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "G Medina",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "S Gilmore",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "John John Florence",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "S Gilmore",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "C Smith",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "R O'Sullivan",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "R Mcliroy",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "C Leclrec",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Manchester City",
+      "Bonus": 93.0
+    },
+    "Event_22": {
+      "Selection": "E Haaland",
+      "Bonus": 26.0
+    },
+    "Event_23": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Melbourne Victory",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "S Pang",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Boston Bruins",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "R Nadal",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "C Smith",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "Australia",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Boston Celtics",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "G Antetokounmpo",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "T Pogacar",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "W van Aert",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "R Mcliroy",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "QLD 2-1",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "T Head",
+      "Bonus": 580.0
+    },
+    "Event_41": {
+      "Selection": "P Cummins",
+      "Bonus": 37.0
+    },
+    "Event_42": {
+      "Selection": "Australia 3-1",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "E White",
+      "Bonus": 7.0
+    },
+    "Event_45": {
+      "Selection": "T Lynch",
+      "Bonus": 87.0
+    },
+    "Event_46": {
+      "Selection": "North Melbourne Kangaroos",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Knights",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "A Johnston",
+      "Bonus": 27.0
+    },
+    "Event_49": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "N Cleary",
+      "Bonus": 33.0
+    },
+    "Event_52": {
+      "Selection": "L Neale",
+      "Bonus": 27.0
+    },
+    "Event_53": {
+      "Selection": "W Ashcroft",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "Geelong Cats",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Panthers",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "M Marquez",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "France",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "W Jordan",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "Houston Astros",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "India",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "J Oman",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "J Ferguson",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Justin Holbrook",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Ken Hinkley",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": "Eddie Jones announced Wallbies Coach post RWC",
+      "Bonus": null
+    }
+  },
+  "Player3": {
+    "first_name": "F",
+    "last_name": "Creedon",
+    "correct_tips": 15,
+    "bonus_points": 2,
+    "points_tally": 22.255225166989874,
+    "Event_1": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "John John Florence",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "T Wright",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Hobart Hurricanes",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "San Francisco 49ers",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "P Mahomes",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "B Fraser",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "C Blanchett",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "Maher and Eustace",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "Maher and Eustace",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "I Ferrreira",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "S Gilmore",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "John John Florence",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "T Wright",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "C Smith",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "J Trump",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "C Smith",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Arsenal",
+      "Bonus": 92.0
+    },
+    "Event_22": {
+      "Selection": "E Haaland",
+      "Bonus": 36.0
+    },
+    "Event_23": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Melbourne City",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "S Kruger",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Boston Bruins",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "C Smith",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "England",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Boston Celtics",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "J Tatum",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "T Pogacar",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "W Van Aert",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "C Smith",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "NSW 2-1",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "J Root",
+      "Bonus": 550.0
+    },
+    "Event_41": {
+      "Selection": "P Cummins",
+      "Bonus": 28.0
+    },
+    "Event_42": {
+      "Selection": "England 2-1",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "England",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "A Morgan",
+      "Bonus": 8.0
+    },
+    "Event_45": {
+      "Selection": "C Cameron",
+      "Bonus": 68.0
+    },
+    "Event_46": {
+      "Selection": "North Melbourne Kangaroos",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Dragons",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "J Addo-Carr",
+      "Bonus": 22.0
+    },
+    "Event_49": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "N Cleary",
+      "Bonus": 36.0
+    },
+    "Event_52": {
+      "Selection": "L Neale",
+      "Bonus": 29.0
+    },
+    "Event_53": {
+      "Selection": "W Ashcroft",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "Brisbane Lions",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Eels",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "F Bagnaia",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "France",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "G Villiere",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "Houston Astros",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "India",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "J McDonald",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "Maher Eustace",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Anthony Griffin",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Stuart Dew",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": "Bronx Top 8",
+      "Bonus": null
+    }
+  },
+  "Player4": {
+    "first_name": "B",
+    "last_name": "Dalton",
+    "correct_tips": 10,
+    "bonus_points": 0,
+    "points_tally": 30.176470588235293,
+    "Event_1": {
+      "Selection": "D Medvedev",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "A Sabalenka",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "John John Florence",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Sydney 6ers",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "San Francisco 49ers",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "B Purdy",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "C Farrell",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "C Blanchett",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "G Waterhouse",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "Snowden",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "C Leclerc",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "I Ferreira",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "S Gilmore",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "J Robinson",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "T Wright",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "J Rahm",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "N Robertson",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "C Smith",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "S Perez",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Arsenal",
+      "Bonus": 64.0
+    },
+    "Event_22": {
+      "Selection": "G Jesus ",
+      "Bonus": 31.0
+    },
+    "Event_23": {
+      "Selection": "Bristol City",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Sydney FC",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "M Leong",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Calgary Flames",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "C Alcaraz",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "J Thomas",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "Australia",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Dallas Mavericks",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "L Doncic",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "R Evenepoel",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "J Vingegaard",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "R Mcilroy",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "NSW 2-1",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "O Jabeur",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "M Labuschagne",
+      "Bonus": 419.0
+    },
+    "Event_41": {
+      "Selection": "M Starc",
+      "Bonus": 17.0
+    },
+    "Event_42": {
+      "Selection": "Australia 3-2",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "G Rennie ",
+      "Bonus": 11.0
+    },
+    "Event_45": {
+      "Selection": "H McKay",
+      "Bonus": 63.0
+    },
+    "Event_46": {
+      "Selection": "Gold Coast Suns",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Wests Tigers",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "C Oates",
+      "Bonus": 29.0
+    },
+    "Event_49": {
+      "Selection": "R Nedal",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "C Garcia",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "J Tedesco",
+      "Bonus": 34.0
+    },
+    "Event_52": {
+      "Selection": "C Oliver",
+      "Bonus": 29.0
+    },
+    "Event_53": {
+      "Selection": "W Ashcroft",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "St Kilda Saints",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Knights",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "M Marquez",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "South Africa",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "K Arendse",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "Philadelphia Phillies",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "Australia",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "H Bowman",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "Maher Eustace",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Todd Payten",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Adam Kingsley",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": "The same horse trainer to win Cox plate, Caulfield cup & Melbourne Cup - along with Hugh Bowman to win Melbourne Cup",
+      "Bonus": null
+    }
+  },
+  "Player5": {
+    "first_name": "F",
+    "last_name": "Donne",
+    "correct_tips": 16,
+    "bonus_points": 0,
+    "points_tally": 30.457606119370823,
+    "Event_1": {
+      "Selection": "A Rublev",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "M Sakkari",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "John John Florence",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Sydney 6ers",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "Kansas City Chiefs",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "P Mahomes",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "B Fraser",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "V Davis",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "A Neasham",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "Snowden",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "E Ewing",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "S Gilmore ",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "J Robinson ",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "J Speith",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "M allen",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "J Rahm ",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Arsenal",
+      "Bonus": 81.0
+    },
+    "Event_22": {
+      "Selection": "E Haaland",
+      "Bonus": 43.0
+    },
+    "Event_23": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Paris Saint-Germain",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Melbourne City",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "S Kruger",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Toronto Maple Leafs",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "R Nadal",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "C Gauff ",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "R Mcilroy",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "India ",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Milwaukee Bucks",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "G Antetokounmpo",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "J Vingegaard",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "R Evenepoel ",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "R Mcilroy",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "NSW 2-1",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "B Andreescu",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "S Smith ",
+      "Bonus": -1.0
+    },
+    "Event_41": {
+      "Selection": "M Starc",
+      "Bonus": 22.0
+    },
+    "Event_42": {
+      "Selection": "Australia 3-1",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "England ",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "A Morgan ",
+      "Bonus": -1.0
+    },
+    "Event_45": {
+      "Selection": "C Curnow",
+      "Bonus": 66.0
+    },
+    "Event_46": {
+      "Selection": "North Melbourne Kangaroos",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Dolphins",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "A Johnston",
+      "Bonus": 22.0
+    },
+    "Event_49": {
+      "Selection": "C Alcaraz ",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "O Jabeur",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "J Tedesco",
+      "Bonus": 28.0
+    },
+    "Event_52": {
+      "Selection": "C Petracca",
+      "Bonus": 28.0
+    },
+    "Event_53": {
+      "Selection": "E Tsatas",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "Melbourne Demons",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Roosters",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "A Rins ",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "Ireland",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "C Clarke ",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "Los Angeles Dodgers",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "Australia",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "J McDonald",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "Maher Eustace",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Anthony Griffin",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Adam Simpson",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": "No LIV golf players to win a Major ",
+      "Bonus": null
+    }
+  },
+  "Player6": {
+    "first_name": "J",
+    "last_name": "Donne",
+    "correct_tips": 16,
+    "bonus_points": 2,
+    "points_tally": 24.367880485527547,
+    "Event_1": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "F Toledo",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Sydney 6ers",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "Cincinnati Bengals",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "J Burrows",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "B Fraser",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "M Yeoh",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "J Cummings",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "J Cummings",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "C Leclerc",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "E Ewing",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "J Robinson",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "J Rahm",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "R O'Sullivan\u00a0",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "X Schauffelle",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "S\u00a0Perez",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Manchester City",
+      "Bonus": 88.0
+    },
+    "Event_22": {
+      "Selection": "E Haaland",
+      "Bonus": 36.0
+    },
+    "Event_23": {
+      "Selection": "Arsenal",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Melbourne City",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "T Armstrong",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Boston Bruins",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "C Morikowra",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "Australia",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Milwaukee Bucks",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "G Anteokounmpo",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "J Vingegaard",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "W Van Aert",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "R Mcilroy",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "NSW 2-1",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "O Jabeur",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "S Smith",
+      "Bonus": 454.0
+    },
+    "Event_41": {
+      "Selection": "P Cummins",
+      "Bonus": 26.0
+    },
+    "Event_42": {
+      "Selection": "Australia 3-1",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "S Kerr",
+      "Bonus": 6.0
+    },
+    "Event_45": {
+      "Selection": "H Mckay",
+      "Bonus": 62.0
+    },
+    "Event_46": {
+      "Selection": "West Coast Eagles",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Warriors",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "X Coates",
+      "Bonus": 20.0
+    },
+    "Event_49": {
+      "Selection": "C Alcarez",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "C Munster",
+      "Bonus": 34.0
+    },
+    "Event_52": {
+      "Selection": "C Petracca",
+      "Bonus": 27.0
+    },
+    "Event_53": {
+      "Selection": "W Ashcroft",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "Melbourne Demons",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Panthers",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "F Quartararo",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "New Zealand",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "M Telea",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "Los Angeles Dodgers",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "India",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "J McDonald",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "Maher Eustace",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Adam O'brien",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Adam Simpson",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": "Wayne Bennett to be sacked ",
+      "Bonus": null
+    }
+  },
+  "Player7": {
+    "first_name": "S",
+    "last_name": "Dwyer",
+    "correct_tips": 17,
+    "bonus_points": 0,
+    "points_tally": 19.776000143647206,
+    "Event_1": {
+      "Selection": "D Medvedev",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "J Robinson",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Perth Scorchers",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "Kansas City Chiefs",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "P Mahomes",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "B Fraser",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "M Yeoh",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "J Cummings",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "G Portelli",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "J Robinson",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "S Gilmore",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "J Robinson",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "C Smith",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "N Robertson",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "R McIlroy",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "C Leclerc",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Arsenal",
+      "Bonus": 84.0
+    },
+    "Event_22": {
+      "Selection": "E Haaland",
+      "Bonus": 32.0
+    },
+    "Event_23": {
+      "Selection": "Manchester United",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Bayern Munich",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Melbourne City",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "R Meagher",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Boston Bruins",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "C Alcarez",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "P Cantalay",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "Australia",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Boston Celtics",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "J Taytum",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "J Visma",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "J Visma",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "C Smith",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "QLD 2-1",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "J Pegula",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "H Brook",
+      "Bonus": 412.0
+    },
+    "Event_41": {
+      "Selection": "P Cummins",
+      "Bonus": 26.0
+    },
+    "Event_42": {
+      "Selection": "Australia 3-2",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "England",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "S Kerr",
+      "Bonus": 6.0
+    },
+    "Event_45": {
+      "Selection": "T Hawkins",
+      "Bonus": 58.0
+    },
+    "Event_46": {
+      "Selection": "West Coast Eagles",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Knights",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "T May",
+      "Bonus": 24.0
+    },
+    "Event_49": {
+      "Selection": "C Rudd",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "N Cleary",
+      "Bonus": 36.0
+    },
+    "Event_52": {
+      "Selection": "L Neale",
+      "Bonus": 27.0
+    },
+    "Event_53": {
+      "Selection": "A Johnson",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "Brisbane Lions",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "Greece",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Panthers",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "F Bagnaia",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "Ireland",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "M Koroibete",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "Philadelphia Phillies",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "England",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "J McDonald",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "C Waller",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Anthony Griffin",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Adam Simpson",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": "4 draws in the AFL regular season",
+      "Bonus": null
+    }
+  },
+  "Player8": {
+    "first_name": "A",
+    "last_name": "Eviston",
+    "correct_tips": 16,
+    "bonus_points": 2,
+    "points_tally": 25.424926380808735,
+    "Event_1": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "J Pegula",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "John John Florence",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "T Wright",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Brisbane Heat",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "Philadelphia Eagles",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "J Hurts",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "C Farrell",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "M Yeoh",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "M Moroney",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "G Waterhouse",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "G Medina",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "S Gilmore",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "John John Florence",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "S Gilmore",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "J Rahm",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "M Selby",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "J Speith",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Manchester City",
+      "Bonus": 89.0
+    },
+    "Event_22": {
+      "Selection": "M Salah",
+      "Bonus": 40.0
+    },
+    "Event_23": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Bayern Munich",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Central Coast Mariners",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "H Blake",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Boston Bruins",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "C Alcaraz",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "S Scheffler",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "Australia",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Boston Celtics",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "J Taytum",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "J Vingegaard",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "E Bernal",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "R McIlroy",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "QLD 2-1",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "M Labuschagne",
+      "Bonus": 650.0
+    },
+    "Event_41": {
+      "Selection": "C Green",
+      "Bonus": 18.0
+    },
+    "Event_42": {
+      "Selection": "Australia 3-1",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "England",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "E White",
+      "Bonus": 5.0
+    },
+    "Event_45": {
+      "Selection": "T Lynch",
+      "Bonus": 60.0
+    },
+    "Event_46": {
+      "Selection": "West Coast Eagles",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Dragons",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "J Addo Carr",
+      "Bonus": 24.0
+    },
+    "Event_49": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "C Garcia",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "J Tedesco",
+      "Bonus": 33.0
+    },
+    "Event_52": {
+      "Selection": "L Neale",
+      "Bonus": 30.0
+    },
+    "Event_53": {
+      "Selection": "W Ashcroft",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "Brisbane Lions",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "Europe",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "Spain",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Roosters",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "J Miller",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "Ireland",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "C Clarke",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "Houston Astros",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "England",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "J Kah",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "Maher Eustace",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Kevin Walters",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Adam Simpson",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": "Wrexham to be promoted",
+      "Bonus": null
+    }
+  },
+  "Player9": {
+    "first_name": "S",
+    "last_name": "Gleeson",
+    "correct_tips": 12,
+    "bonus_points": 0,
+    "points_tally": 16.826653738418443,
+    "Event_1": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "A Sabalenka",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "John John Florence",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "L Peterson",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Sydney 6ers",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "San Francisco 49ers",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "C McCaffrey",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "A Butler",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "C Blanchett",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "G Waterhouse",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "Snowden",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "F Toledo",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "S Gilmore",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "G Medina",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "S Scheffler",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "R O'Sullivan",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "C Smith",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "L Hamilton",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Arsenal",
+      "Bonus": 90.0
+    },
+    "Event_22": {
+      "Selection": "E Haaland",
+      "Bonus": 37.0
+    },
+    "Event_23": {
+      "Selection": "Manchester United",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Melbourne Victory",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "S Kruger",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Boston Bruins",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "R Nadal",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "J Thomas",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "Australia",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Brooklyn Nets",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "G Antetokounmpo",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "T Pogacar",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "C Rodriguez",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "J Rahm",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "NSW 2-1",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "C Gauff",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "J Root",
+      "Bonus": 450.0
+    },
+    "Event_41": {
+      "Selection": "P Cummins",
+      "Bonus": 27.0
+    },
+    "Event_42": {
+      "Selection": "Australia 3-2",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "A Morgan",
+      "Bonus": 6.0
+    },
+    "Event_45": {
+      "Selection": "T Lynch",
+      "Bonus": 62.0
+    },
+    "Event_46": {
+      "Selection": "North Melbourne Kangaroos",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Dragons",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "X Coates",
+      "Bonus": 27.0
+    },
+    "Event_49": {
+      "Selection": "N Kygrios",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "L Mitchell",
+      "Bonus": 34.0
+    },
+    "Event_52": {
+      "Selection": "L Neale",
+      "Bonus": 30.0
+    },
+    "Event_53": {
+      "Selection": "W Ashcroft",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "Brisbane Lions",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Roosters",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "M Marquez",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "New Zealand",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "D Penaud",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "New York Yankees",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "India",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "J McDonald",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "C Waller",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Anthony Griffin",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Luke Beveridge",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": "Redcliffe Dolphins make the top 8",
+      "Bonus": null
+    }
+  },
+  "Player10": {
+    "first_name": "C",
+    "last_name": "Goddard",
+    "correct_tips": 10,
+    "bonus_points": 0,
+    "points_tally": 13.195701357466064,
+    "Event_1": {
+      "Selection": "D Medvedev",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "C Garcia",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "M Pupo",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Sydney 6ers",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "New England Patriots",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "M Jones",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "C Farrell",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "C Blanchett",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "P Moody",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "P Moody",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "M Pupo",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "M Pupo",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "J Rahm",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "J Trump",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "R Mcilroy",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Arsenal",
+      "Bonus": 94.0
+    },
+    "Event_22": {
+      "Selection": "E Haaland",
+      "Bonus": 20.0
+    },
+    "Event_23": {
+      "Selection": "Manchester United",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Bayern Munich",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Melbourne Victory",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "H Blake",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Boston Bruins",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "D Medvedev",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "C Garcia",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "R Mcilroy",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "Australia",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Boston Celtics",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "J Taytum",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "J Vingegaard",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "J Vingegaard",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "R Mcilroy",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "NSW 2-1",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "D Medvedev",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "C Garcia",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "J Root",
+      "Bonus": 520.0
+    },
+    "Event_41": {
+      "Selection": "P Cummins",
+      "Bonus": 25.0
+    },
+    "Event_42": {
+      "Selection": "England 3-1",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "S Kerr",
+      "Bonus": 4.0
+    },
+    "Event_45": {
+      "Selection": "T Hawkins",
+      "Bonus": 52.0
+    },
+    "Event_46": {
+      "Selection": "Gold Coast Suns",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Dolphins",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "J Addo Carr",
+      "Bonus": 26.0
+    },
+    "Event_49": {
+      "Selection": "D Medvedev",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "C Garcia",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "N Cleary",
+      "Bonus": 33.0
+    },
+    "Event_52": {
+      "Selection": "L Neale",
+      "Bonus": 228.0
+    },
+    "Event_53": {
+      "Selection": "W Ashcroft",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "Carlton Blues",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Roosters",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "F Bagnaia",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "France",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "D Penaud",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "New York Mets",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "England",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "C Williams",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "C Waller",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Justin Holbrook",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Stuart Dew",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": "Game 3 State of origin will be a decider, NSW to win 26-10",
+      "Bonus": null
+    }
+  },
+  "Player11": {
+    "first_name": "C",
+    "last_name": "Greben",
+    "correct_tips": 15,
+    "bonus_points": 0,
+    "points_tally": 33.31871723048194,
+    "Event_1": {
+      "Selection": "N Kyrgios",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "John John Florence",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Perth Scorchers",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "San Francisco 49ers",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "P Mahomes",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "C Farrell",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "C Blanchett",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "A Neasham",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "G Waterhouse",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "G Medina",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "S Gilmore",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "I Ferreira",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "R McIlroy",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "J Trump",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "R McIlroy",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Manchester City",
+      "Bonus": 40.0
+    },
+    "Event_22": {
+      "Selection": "E Haaland",
+      "Bonus": 35.0
+    },
+    "Event_23": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Bayern Munic",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Sydney FC",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "H Blake",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Vegas Golden Knights",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "S Halep",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "C Smith",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "Australia",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Milwaukee Bucks",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "L Doncic",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "T Pogacar",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "J Vingegaard",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "R McIlroy",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "QLD 2-1",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "O Jabeur",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "T Head",
+      "Bonus": 348.0
+    },
+    "Event_41": {
+      "Selection": "P Cummins",
+      "Bonus": 19.0
+    },
+    "Event_42": {
+      "Selection": "Australia 4-0",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "England",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "A Morgan",
+      "Bonus": 6.0
+    },
+    "Event_45": {
+      "Selection": "M Taberner",
+      "Bonus": 60.0
+    },
+    "Event_46": {
+      "Selection": "North Melbourne Kangaroos",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Dolphins",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "A Johnston",
+      "Bonus": 26.0
+    },
+    "Event_49": {
+      "Selection": "D Medvedev",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "J Tedesco",
+      "Bonus": 35.0
+    },
+    "Event_52": {
+      "Selection": "L Neale",
+      "Bonus": 28.0
+    },
+    "Event_53": {
+      "Selection": "W Ashcroft",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "Melbourne Demons",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Sydney Roosters",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "F Quartararo",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "New Zealand",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "J van der Flier",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "New York Mets",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "India",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "M Zahra",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "Maher Eustace",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Brad Arthur",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Luke Beveridge",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": "Nick Kyrgios to beat N Djokovic at US OPEN Final 3 - 1 ",
+      "Bonus": null
+    }
+  },
+  "Player12": {
+    "first_name": "S",
+    "last_name": "Johnston",
+    "correct_tips": 11,
+    "bonus_points": 0,
+    "points_tally": 11.776610644257701,
+    "Event_1": {
+      "Selection": "D Medvedev",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "John John Florence",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Sydney 6ers",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "Buffalo Bills",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "P Mahomes",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "B Fraser",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "C Blanchett",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "M Price M Kent",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "Snowden",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "L Hamilton",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "G Medina",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "S Gilmore",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "J Robinson",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "L Peterson",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "C Smith",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "N Robertson",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "J Thomas",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Arsenal",
+      "Bonus": 94.0
+    },
+    "Event_22": {
+      "Selection": "E Haaland",
+      "Bonus": 30.0
+    },
+    "Event_23": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Melbourne City",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "S Pang",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Boston Bruins",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "C Alcaraz",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "J Rahm ",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "India",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Boston Celtics",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "N Jokic",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "T Pogacar",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "W Van Aert",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "R Mcilroy",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "NSW 2-1",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "J Root",
+      "Bonus": 410.0
+    },
+    "Event_41": {
+      "Selection": "M Wood",
+      "Bonus": 20.0
+    },
+    "Event_42": {
+      "Selection": "England 3-1",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "G Stanway",
+      "Bonus": 8.0
+    },
+    "Event_45": {
+      "Selection": "Carlton Blues",
+      "Bonus": 60.0
+    },
+    "Event_46": {
+      "Selection": "West Coast",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Dolphins",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "A Johnston",
+      "Bonus": 26.0
+    },
+    "Event_49": {
+      "Selection": "C Alcaraz",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "N Cleary ",
+      "Bonus": 37.0
+    },
+    "Event_52": {
+      "Selection": "C Oliver",
+      "Bonus": 29.0
+    },
+    "Event_53": {
+      "Selection": "W Ashcroft",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "Geelong Cats",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "Europe",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "Spain",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Panthers",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "F Bagnaia",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "France",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "M Nawaqanitawase",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "Houston Astros",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "India",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "K Mcevoy",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "G Waterhouse",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Kevin Walters",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Adam Simpson",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": "Brad Fittler sacking ",
+      "Bonus": null
+    }
+  },
+  "Player13": {
+    "first_name": "J",
+    "last_name": "Langton",
+    "correct_tips": 21,
+    "bonus_points": 0,
+    "points_tally": 28.935340802987863,
+    "Event_1": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "A Sabalenka",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "John John Florence",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Perth Scorchers",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "Kansas City Chiefs",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "P Mahomes",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "A Butler",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "C Blanchett",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "M Moroney",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "G Waterhouse",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "C Leclerc",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "J Robinson",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "S Gilmore",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "F Toledo",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "C Smith",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "R O'Sullivan ",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "S Scheffler",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Manchester City",
+      "Bonus": 96.0
+    },
+    "Event_22": {
+      "Selection": "E Haaland",
+      "Bonus": 35.0
+    },
+    "Event_23": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Melbourne City",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "S Pang",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Colorado Avalanches",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "R McIroy ",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "Australia ",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Boston Celtics",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "N Jokic",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "T Pogacar",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "W Van Aert",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "J Rahm ",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "NSW 2-1",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "C Alcaraz",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "S Smith",
+      "Bonus": 470.0
+    },
+    "Event_41": {
+      "Selection": "P Cummins",
+      "Bonus": 26.0
+    },
+    "Event_42": {
+      "Selection": "Australia 2-1",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "Germany ",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "S Kerr",
+      "Bonus": 5.0
+    },
+    "Event_45": {
+      "Selection": "T Hawkins ",
+      "Bonus": 62.0
+    },
+    "Event_46": {
+      "Selection": "North Melbourne Kangaroos",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Titans",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "J Addo Carr",
+      "Bonus": 24.0
+    },
+    "Event_49": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "B Hunt ",
+      "Bonus": 34.0
+    },
+    "Event_52": {
+      "Selection": "L Neale",
+      "Bonus": 29.0
+    },
+    "Event_53": {
+      "Selection": "W Ashcroft",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "Brisbane Lions",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "Europe",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Panthers",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "F Bagnaia",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "Ireland",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "J van der Flier",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "Houston Astros",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "India",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "J McDonald",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "C Waller",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Anthony Griffin",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Ken Hinkley",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": "Eddie Jones and Michael Cheika to become coaches in Rugby league and knights and/or dragons by round 10.",
+      "Bonus": null
+    }
+  },
+  "Player14": {
+    "first_name": "L",
+    "last_name": "Madden",
+    "correct_tips": 12,
+    "bonus_points": 0,
+    "points_tally": 29.79093945270416,
+    "Event_1": {
+      "Selection": "J Sinner",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "K Igarashi",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "S Gilmore",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Perth Scorchers",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "Kansas City Chiefs",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "P Mahomes",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "A Butler",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "C Blanchett",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "J Cummings",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "Snowden",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "F Toledo",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "C Conlogue",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "John John Florence",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "T Weston-Web",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "W Zalatoris",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "M Selby",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "W Zalatoris",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "C Leclerc",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Arsenal",
+      "Bonus": 99.0
+    },
+    "Event_22": {
+      "Selection": "E Haaland",
+      "Bonus": 41.0
+    },
+    "Event_23": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Paris Saint-Germain",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Melbourne City",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "H Blake",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Boston Bruins",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "C Alcaraz",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "W Zalatoris",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "Australia",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Denver Nuggets",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "N Jokic",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "T Pogacar",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "F Jacobsen",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "C Smith",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "NSW 3-0",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "N Kgyrios",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "O Pope",
+      "Bonus": 547.0
+    },
+    "Event_41": {
+      "Selection": "S Broad",
+      "Bonus": 23.0
+    },
+    "Event_42": {
+      "Selection": "England 4-0",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "Sweden",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "B Mead",
+      "Bonus": 9.0
+    },
+    "Event_45": {
+      "Selection": "H McKay",
+      "Bonus": 78.0
+    },
+    "Event_46": {
+      "Selection": "Hawthorn",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Titans",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "D Young",
+      "Bonus": 32.0
+    },
+    "Event_49": {
+      "Selection": "J Sinner",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "O Jabeur",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "B Hunt",
+      "Bonus": 27.0
+    },
+    "Event_52": {
+      "Selection": "P Cripps",
+      "Bonus": 31.0
+    },
+    "Event_53": {
+      "Selection": "H Sheezel",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "Brisbane Lions",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Panthers",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "F Bagnaia",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "New Zealand",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "R Ioane",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "Washington Nationals",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "England",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "B Shinn",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "Maher Eustace",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Justin Holbrook",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Ken Hinkley",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": "I Swiatek completes the female Grand Slam (wins all Slams in calendar year)",
+      "Bonus": null
+    }
+  },
+  "Player15": {
+    "first_name": "T",
+    "last_name": "Madden",
+    "correct_tips": 10,
+    "bonus_points": 0,
+    "points_tally": 10.68347338935574,
+    "Event_1": {
+      "Selection": "D Medvedev",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "John John Florence",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "S Gilmore",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Perth Scorchers",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "Kansas City Chiefs",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "P Mahomes",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "B Fraser",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "C Blanchett",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "T Price",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "P Snowden",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "C Leclerc",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "John John Florence",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "S Gilmore",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "John John Florence",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "S Gilmore",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "R McIlroy",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "R O'Sullivan",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "J Rahm",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "C Leclerc",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Arsenal",
+      "Bonus": 86.0
+    },
+    "Event_22": {
+      "Selection": "H kane",
+      "Bonus": 33.0
+    },
+    "Event_23": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Melbourne City",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "S Pang",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Boston Bruins",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "C Alcaraz",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "R McIlroy",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "India",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Boston Celtics",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "N Jokic",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "T Pogacar",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "M Matthews",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "C Smith",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "NSW 2-1",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "M Labuschagne",
+      "Bonus": 622.0
+    },
+    "Event_41": {
+      "Selection": "N Lyon",
+      "Bonus": 13.0
+    },
+    "Event_42": {
+      "Selection": "England 2-1",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "A Wambach",
+      "Bonus": 8.0
+    },
+    "Event_45": {
+      "Selection": "T Lynch",
+      "Bonus": 32.0
+    },
+    "Event_46": {
+      "Selection": "Port Adelaide Power",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Dragons",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "J Nanai",
+      "Bonus": 23.0
+    },
+    "Event_49": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "L Mitchell",
+      "Bonus": 28.0
+    },
+    "Event_52": {
+      "Selection": "L Neale",
+      "Bonus": 29.0
+    },
+    "Event_53": {
+      "Selection": "W Ashcroft",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "Geelong Cats",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "Serbia",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Storm",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "F Bagnaia",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "France",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "J May",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "Houston Astros",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "India",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "C Williams",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "C Waller",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Justin Holbrook",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Adam Simpson",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": "NetBall world cup - winner Australia",
+      "Bonus": null
+    }
+  },
+  "Player16": {
+    "first_name": "H",
+    "last_name": "Munck",
+    "correct_tips": 11,
+    "bonus_points": 2,
+    "points_tally": 10.803777921424981,
+    "Event_1": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "F Toledo",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Perth Scorchers",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "Buffalo Bills",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "J Allen",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "C Farrell",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "M Yeoh",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "M Moroney",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "Snowden",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "J Robinson",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "S Gilmore",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "K Irashi",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "C Marks",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "R McIlroy",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "R O'Sullivan",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "R McIlroy",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "C Leclerc",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Manchester City",
+      "Bonus": 75.0
+    },
+    "Event_22": {
+      "Selection": "E Haaland",
+      "Bonus": 38.0
+    },
+    "Event_23": {
+      "Selection": "Liverpool",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Paris Saint-Germain",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Melbourne City",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "S Cam",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Toronto Maple Leafs",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "R Nadal",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "C Alcaraz",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "Australia",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Dallas Mavericks",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "L Doncic",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "T Pogacar",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "W Van Aert",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "C Smith",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "NSW 2-1",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "S Tsitsipas",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "J Root",
+      "Bonus": 480.0
+    },
+    "Event_41": {
+      "Selection": "P Cummins",
+      "Bonus": 29.0
+    },
+    "Event_42": {
+      "Selection": "Australia 3-1",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "D Cristiane de Oliveira",
+      "Bonus": 6.0
+    },
+    "Event_45": {
+      "Selection": "T Lynch",
+      "Bonus": 62.0
+    },
+    "Event_46": {
+      "Selection": "Hawthorn Hawks",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Dolphins",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "A Johnston",
+      "Bonus": 25.0
+    },
+    "Event_49": {
+      "Selection": "C Alcaraz",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "M Moses",
+      "Bonus": 32.0
+    },
+    "Event_52": {
+      "Selection": "L Neale",
+      "Bonus": 31.0
+    },
+    "Event_53": {
+      "Selection": "W Ashcroft",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "Brisbane Lions",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Eels",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "J Miller",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "France",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "R Ioane",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "Los Angeles Dodgers",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "India",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "R Wiggins",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "P Moody",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Anthony Griffin",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Ross Lyon",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": "Australia win netball world championship",
+      "Bonus": null
+    }
+  },
+  "Player17": {
+    "first_name": "S",
+    "last_name": "O'Keefe",
+    "correct_tips": 17,
+    "bonus_points": 2,
+    "points_tally": 21.510127127774187,
+    "Event_1": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "G Medina",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Hobart Hurricanes",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "Kansas City Chiefs",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "P Mahomes",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "B Fraser",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "C Blanchette",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "M Price M Kent",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "G Waterhouse",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "G Medina",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "G Medina",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "J Rahm",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "R O'Sullivan",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "W Zalatoris",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "L Hamilton",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Arsenal",
+      "Bonus": 98.0
+    },
+    "Event_22": {
+      "Selection": "E Haaland",
+      "Bonus": 36.0
+    },
+    "Event_23": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Melbourne City",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "T Armstrong",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Colorado Avalanches",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "C Alcaraz",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "W Zalatoris",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "Australia",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Boston Celtics",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "J Taytum",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "T Poga\u010dar",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "C Ewan",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "R McIlroy",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "NSW 3-0",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "H Brook",
+      "Bonus": 685.0
+    },
+    "Event_41": {
+      "Selection": "J Archer",
+      "Bonus": 24.0
+    },
+    "Event_42": {
+      "Selection": "England 2-1",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "A Morgan",
+      "Bonus": 7.0
+    },
+    "Event_45": {
+      "Selection": "J Cameron",
+      "Bonus": 69.0
+    },
+    "Event_46": {
+      "Selection": "Hawthorn Hawks",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Dragons",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "X Coates",
+      "Bonus": 25.0
+    },
+    "Event_49": {
+      "Selection": "D Medvedev",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "N Cleary",
+      "Bonus": 39.0
+    },
+    "Event_52": {
+      "Selection": "L Neale",
+      "Bonus": 30.0
+    },
+    "Event_53": {
+      "Selection": "W Ashcroft",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "Brisbane Lions",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "Europe",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "Spain",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Roosters",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "F Bagnaia",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "New Zealand",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "C Clarke",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "Houston Astros",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "India",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "T Clark",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "G Waterhouse",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Anthony Griffin",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Adam Simpson",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": "Western Australia Sheffield Shield winners 22/23",
+      "Bonus": null
+    }
+  },
+  "Player18": {
+    "first_name": "K",
+    "last_name": "Robinson",
+    "correct_tips": 16,
+    "bonus_points": 0,
+    "points_tally": 24.43043884220355,
+    "Event_1": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "A Sabalenka",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "J Robinson",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Perth Scorchers",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "Kansas City Chiefs",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "P Mahomes",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "A Butler",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "M Yeoh",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "M Moroney ",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "Snowden",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "C Leclerc",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "F Toledo",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "F Toledo",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "S Gilmore",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "S Scheffler",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "R O'Sullivan",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "S Scheffler",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "C Leclerc",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Arsenal",
+      "Bonus": 98.0
+    },
+    "Event_22": {
+      "Selection": "M Salah",
+      "Bonus": 36.0
+    },
+    "Event_23": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Melbourne City",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "H Blake",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Carolina Hurricanes",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "C Alcaraz",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "J Rahm",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "England",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Boston Celtics",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "J Taytum",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "T Poga\u010dar",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "T Poga\u010dar",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "R McIlroy",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "QLD 2-1",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "H Brook",
+      "Bonus": 550.0
+    },
+    "Event_41": {
+      "Selection": "R Ahmed",
+      "Bonus": 21.0
+    },
+    "Event_42": {
+      "Selection": "England 3-2",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "Australia",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "S Kerr",
+      "Bonus": 7.0
+    },
+    "Event_45": {
+      "Selection": "C Curnow",
+      "Bonus": 68.0
+    },
+    "Event_46": {
+      "Selection": "North Melbourne Kangaroos",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Knights",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "C Oates",
+      "Bonus": 27.0
+    },
+    "Event_49": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "R Papenhuyzen",
+      "Bonus": 34.0
+    },
+    "Event_52": {
+      "Selection": "L Neale",
+      "Bonus": 30.0
+    },
+    "Event_53": {
+      "Selection": "Z Duursma",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "Brisbane Lions",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "Europe",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Storm",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "M M\u00e1rquez",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "France",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "R Ioane",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "New York Mets",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "India",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "H Bowman",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "D O'Brien",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Andrew Webster",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Ken Hinkley",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": "Wrexham win the 22-23 National League",
+      "Bonus": null
+    }
+  },
+  "Player19": {
+    "first_name": "C",
+    "last_name": "Schmidt",
+    "correct_tips": 19,
+    "bonus_points": 0,
+    "points_tally": 20.454571572218633,
+    "Event_1": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "K Slater",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Perth Scorchers",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "Kansas City Chiefs",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "P Mahomes",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "B Pitt",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "M Robbie",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "M Moroney",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "C Waller",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "K Slater",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "K Slater",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "S Scheffler",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "R O'Sullivan",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "M Homa",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Manchester City",
+      "Bonus": 94.0
+    },
+    "Event_22": {
+      "Selection": "E Haaland",
+      "Bonus": 38.0
+    },
+    "Event_23": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Melbourne Victory",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "H Blake",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Boston Bruins",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "R Nadal",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "C Smith",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "Australia",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Milwaukee Bucks",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "G Antekomputo",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "J Vingegaard",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "T Pogacer",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "C Smith",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "NSW 2-1",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "D Medvedev",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "S Smith",
+      "Bonus": 500.0
+    },
+    "Event_41": {
+      "Selection": "P Cummins",
+      "Bonus": 22.0
+    },
+    "Event_42": {
+      "Selection": "England 3-2",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "Australia",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "S Kerr",
+      "Bonus": 4.0
+    },
+    "Event_45": {
+      "Selection": "H Mckay",
+      "Bonus": 61.0
+    },
+    "Event_46": {
+      "Selection": "North Melbourne Kangaroos",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Warriors",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "A Johnson",
+      "Bonus": 24.0
+    },
+    "Event_49": {
+      "Selection": "S Tsistipas",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "J Pegula",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "N Hynes",
+      "Bonus": 34.0
+    },
+    "Event_52": {
+      "Selection": "L Neale",
+      "Bonus": 42.0
+    },
+    "Event_53": {
+      "Selection": "B Drury",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "Brisbane Lions",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "Spain",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Panthers",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "J Miller",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "New Zealand",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "J Barrett",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "Cleveland Guardians",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "India",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "J McDonald",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "C Waller",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Anthony Griffin",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Adam Simpson",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": "Kansas City to Win the Super Bowl against the Philly Eagles, National Anthem will be sung in under 1 minute and the gatorade of the winning team will be Orange/Red ",
+      "Bonus": null
+    }
+  },
+  "Player20": {
+    "first_name": "M",
+    "last_name": "Smith",
+    "correct_tips": 18,
+    "bonus_points": 0,
+    "points_tally": 18.232349349996408,
+    "Event_1": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "G Medina",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Perth Scorchers",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "Kansas City Chiefs",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "P Mahomes",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "C Farrell",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "M Yeoh",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "M Price M Kent",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "J Cummings",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "G Medina",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "John John Florence",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "I Nichols",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "R McIlroy",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "R O'sullivan",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "R McIlroy",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Manchester City",
+      "Bonus": 90.0
+    },
+    "Event_22": {
+      "Selection": "E Haaland",
+      "Bonus": 27.0
+    },
+    "Event_23": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Manchester City",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Melbourne City",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "S Pang",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Boston Bruins",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "C Alcaraz",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "J Rahm",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "Australia",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Boston Celtics",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "J Taytum",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "J Vingegaard",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "T Pogecar",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "R McIlroy",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "NSW 2-1",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "S Smith",
+      "Bonus": 485.0
+    },
+    "Event_41": {
+      "Selection": "M Starc",
+      "Bonus": 29.0
+    },
+    "Event_42": {
+      "Selection": "Australia 2-1",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "S Smith",
+      "Bonus": 7.0
+    },
+    "Event_45": {
+      "Selection": "T Lynch",
+      "Bonus": 73.0
+    },
+    "Event_46": {
+      "Selection": "North Melbourne Kangaroos",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Dolphins",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "A Johnston",
+      "Bonus": 29.0
+    },
+    "Event_49": {
+      "Selection": "D Medvedev",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "I Swiatek",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "N Cleary",
+      "Bonus": 35.0
+    },
+    "Event_52": {
+      "Selection": "P Cripps",
+      "Bonus": 28.0
+    },
+    "Event_53": {
+      "Selection": "W Ashcroft",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "Geelong Cats",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Panthers",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "F Bagnaia",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "New Zealand",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "J Cokanasiga",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "New York Yankees",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "India",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "T Clark",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "G Waterhouse",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Anthony Griffin",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Adam Simpson",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": "All 4 Men's Grand Slam Tennis Finals will be won in 4 x sets",
+      "Bonus": null
+    }
+  },
+  "Player21": {
+    "first_name": "P",
+    "last_name": "Wallas",
+    "correct_tips": 13,
+    "bonus_points": 0,
+    "points_tally": 17.24393090569561,
+    "Event_1": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "M Sakkari",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "F Toledo",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Sydney Thunder",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "San Francisco 49ers",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "P Mahomes",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "B Fraser",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "M Yeoh",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "M Moroney",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "Snowden",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "C Leclerc",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "F Toledo",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "F Toledo",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "C Smith",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "N Robertson (Aus)",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "C Morikawa",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "M Verstappen",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Manchester City",
+      "Bonus": 86.0
+    },
+    "Event_22": {
+      "Selection": "E Haaland",
+      "Bonus": 32.0
+    },
+    "Event_23": {
+      "Selection": "Arsenal",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Bayern Munich",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Brisbane Roar",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "S Kruger",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Boston Bruins",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "R Nadal",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "M Sakkari",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "R McIlroy",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "Australia",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Los Angeles Clippers",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "P George",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "J Vingegaard",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "C Ewan",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "J Rahm",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "NSW 3-0",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "N Kygrios",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "M Sakkari",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "M Labuschagne",
+      "Bonus": 650.0
+    },
+    "Event_41": {
+      "Selection": "N Lyon",
+      "Bonus": 28.0
+    },
+    "Event_42": {
+      "Selection": "Australia 3-1",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "Australia",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "S Kerr",
+      "Bonus": 7.0
+    },
+    "Event_45": {
+      "Selection": "J Cameron",
+      "Bonus": 62.0
+    },
+    "Event_46": {
+      "Selection": "St Kilda Saints",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Wests Tigers",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "J Tedesco",
+      "Bonus": 27.0
+    },
+    "Event_49": {
+      "Selection": "R Nadal",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "M Sakkari",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "D Chery Evans",
+      "Bonus": 28.0
+    },
+    "Event_52": {
+      "Selection": "J Cameron",
+      "Bonus": 27.0
+    },
+    "Event_53": {
+      "Selection": "W Ashcroft",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "Geelong Cats",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Rabbitohs",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "F Quartararo",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "New Zealand",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "M Korobiete",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "Boston Red Sox",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "South Africa",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "D Oliver",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "G Waterhouse",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Justin Holbrook",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Adam Simpson",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": "Titans to beat the panthers in their first game of the year",
+      "Bonus": null
+    }
+  },
+  "Player22": {
+    "first_name": "B",
+    "last_name": "Waller",
+    "correct_tips": 8,
+    "bonus_points": 0,
+    "points_tally": 18.969187675070028,
+    "Event_1": {
+      "Selection": "N Djokovic",
+      "Bonus": null
+    },
+    "Event_2": {
+      "Selection": "C Garcia",
+      "Bonus": null
+    },
+    "Event_3": {
+      "Selection": "John John Florence",
+      "Bonus": null
+    },
+    "Event_4": {
+      "Selection": "C Moore",
+      "Bonus": null
+    },
+    "Event_5": {
+      "Selection": "Sydney 6ers",
+      "Bonus": null
+    },
+    "Event_6": {
+      "Selection": "Philadelphia Eagles",
+      "Bonus": null
+    },
+    "Event_7": {
+      "Selection": "J Hurts",
+      "Bonus": null
+    },
+    "Event_8": {
+      "Selection": "B Fraser",
+      "Bonus": null
+    },
+    "Event_9": {
+      "Selection": "C Blanchett",
+      "Bonus": null
+    },
+    "Event_10": {
+      "Selection": "C Waller",
+      "Bonus": null
+    },
+    "Event_11": {
+      "Selection": "C Waller",
+      "Bonus": null
+    },
+    "Event_12": {
+      "Selection": "C Leclerc",
+      "Bonus": null
+    },
+    "Event_13": {
+      "Selection": "J Smith",
+      "Bonus": null
+    },
+    "Event_14": {
+      "Selection": "S Gilmore",
+      "Bonus": null
+    },
+    "Event_15": {
+      "Selection": "John John Florence",
+      "Bonus": null
+    },
+    "Event_16": {
+      "Selection": "S Gilmore",
+      "Bonus": null
+    },
+    "Event_17": {
+      "Selection": "J Thomas",
+      "Bonus": null
+    },
+    "Event_18": {
+      "Selection": "M Selby",
+      "Bonus": null
+    },
+    "Event_19": {
+      "Selection": "C Smith",
+      "Bonus": null
+    },
+    "Event_20": {
+      "Selection": "C Leclerc",
+      "Bonus": null
+    },
+    "Event_21": {
+      "Selection": "Arsenal",
+      "Bonus": 89.0
+    },
+    "Event_22": {
+      "Selection": "I Toney",
+      "Bonus": 27.0
+    },
+    "Event_23": {
+      "Selection": "Tottenham Spurs",
+      "Bonus": null
+    },
+    "Event_24": {
+      "Selection": "Paris Saint-Germain",
+      "Bonus": null
+    },
+    "Event_25": {
+      "Selection": "Central Coast Mariners",
+      "Bonus": null
+    },
+    "Event_26": {
+      "Selection": "S Pang",
+      "Bonus": null
+    },
+    "Event_27": {
+      "Selection": "Toronto Maple Leafs",
+      "Bonus": null
+    },
+    "Event_28": {
+      "Selection": "S Tsitsipas",
+      "Bonus": null
+    },
+    "Event_29": {
+      "Selection": "C Garcia",
+      "Bonus": null
+    },
+    "Event_30": {
+      "Selection": "S Scheffler",
+      "Bonus": null
+    },
+    "Event_31": {
+      "Selection": "India",
+      "Bonus": null
+    },
+    "Event_32": {
+      "Selection": "Mephis Grizzlies",
+      "Bonus": null
+    },
+    "Event_33": {
+      "Selection": "J Morant",
+      "Bonus": null
+    },
+    "Event_34": {
+      "Selection": "R Carapaz",
+      "Bonus": null
+    },
+    "Event_35": {
+      "Selection": "W Van Aert",
+      "Bonus": null
+    },
+    "Event_36": {
+      "Selection": "J Thomas",
+      "Bonus": null
+    },
+    "Event_37": {
+      "Selection": "NSW 2-1",
+      "Bonus": null
+    },
+    "Event_38": {
+      "Selection": "C Alcaraz",
+      "Bonus": null
+    },
+    "Event_39": {
+      "Selection": "O Jabeur",
+      "Bonus": null
+    },
+    "Event_40": {
+      "Selection": "M Labuschagne",
+      "Bonus": 360.0
+    },
+    "Event_41": {
+      "Selection": "S Broad",
+      "Bonus": 20.0
+    },
+    "Event_42": {
+      "Selection": "Australia 2-1",
+      "Bonus": null
+    },
+    "Event_43": {
+      "Selection": "Germany",
+      "Bonus": null
+    },
+    "Event_44": {
+      "Selection": "B Prinz",
+      "Bonus": 10.0
+    },
+    "Event_45": {
+      "Selection": "P Wright",
+      "Bonus": 55.0
+    },
+    "Event_46": {
+      "Selection": "Adelaide Crows",
+      "Bonus": null
+    },
+    "Event_47": {
+      "Selection": "Dragons",
+      "Bonus": null
+    },
+    "Event_48": {
+      "Selection": "J Addo-Carr",
+      "Bonus": 26.0
+    },
+    "Event_49": {
+      "Selection": "D Medvedev",
+      "Bonus": null
+    },
+    "Event_50": {
+      "Selection": "S Halep",
+      "Bonus": null
+    },
+    "Event_51": {
+      "Selection": "D Cherry-Evans",
+      "Bonus": 38.0
+    },
+    "Event_52": {
+      "Selection": "L Neale",
+      "Bonus": 30.0
+    },
+    "Event_53": {
+      "Selection": "B Humphrey",
+      "Bonus": null
+    },
+    "Event_54": {
+      "Selection": "Brisbane Lions",
+      "Bonus": null
+    },
+    "Event_55": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_56": {
+      "Selection": "USA",
+      "Bonus": null
+    },
+    "Event_57": {
+      "Selection": "Sea Eagles",
+      "Bonus": null
+    },
+    "Event_58": {
+      "Selection": "F Bagnaia",
+      "Bonus": null
+    },
+    "Event_59": {
+      "Selection": "France",
+      "Bonus": null
+    },
+    "Event_60": {
+      "Selection": "E Boffelli",
+      "Bonus": null
+    },
+    "Event_61": {
+      "Selection": "Houston Astros",
+      "Bonus": null
+    },
+    "Event_62": {
+      "Selection": "India",
+      "Bonus": null
+    },
+    "Event_63": {
+      "Selection": "C Williams",
+      "Bonus": null
+    },
+    "Event_64": {
+      "Selection": "C Waller",
+      "Bonus": null
+    },
+    "Event_65": {
+      "Selection": "Anthony Griffin",
+      "Bonus": null
+    },
+    "Event_66": {
+      "Selection": "Matthew Knicks",
+      "Bonus": null
+    },
+    "Event_67": {
+      "Selection": "N Djokovic to win 2023 Australian Open in 4 sets",
+      "Bonus": null
+    }
+  }
+}

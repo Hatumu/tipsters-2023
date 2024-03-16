@@ -1,0 +1,17 @@
+/* Rules.css */
+.rules-container {
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    line-height: 1.5;
+    max-width: 2000px; /* Set a maximum width if desired */
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 20px; /* Add padding for spacing */
+    overflow-wrap: break-word; /* Allow text wrapping within the container */
+    word-wrap: break-word; /* Fallback for older browsers */
+    width: 100vw; /* Full width of the viewport */
+  }
+
+  .rules-container pre {
+    white-space: pre-wrap; /* Wrap text within the <pre> tag */
+  }
+  

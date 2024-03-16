@@ -1,0 +1,39 @@
+/* Navbar.css */
+nav {
+    display: flex;
+    background-color: #092635;
+    color: #fff;
+    padding-top: 0px;
+    font-family: 'Trebuchet', sans-serif;
+    height: 50px; /* Adjust the height of the navbar as needed */
+    align-items: center; /* Vertically center items */
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin-right: 0px;
+    padding-inline: 0px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    padding: 16.5px;
+    line-height: 50px; /* Set line-height to match navbar height */
+}
+
+a:hover {
+    background-color: #1B4242;
+    color: rgb(58, 240, 140);
+}
+
+.active {
+    background-color: #1B4242;
+    color: rgb(58, 240, 140);
+  }
